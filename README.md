@@ -15,8 +15,7 @@ Users can enter the name of a movie, and the system will return the **top 5 most
 - `Movie_Recommended_System.ipynb` – Jupyter Notebook containing model logic, preprocessing, vectorization, and similarity matrix creation  
 - `movie_recommendation/` – Django web application with integrated recommendation backend  
 - `similarity.pkl` – Precomputed similarity matrix for fast predictions  
-- `tmdb_5000_movies.csv` & `tmdb_5000_credits.csv` – TMDB datasets used for model training  
-- `env/` – Virtual environment for project dependencies *(optional to include in GitHub)*  
+- `tmdb_5000_movies.csv` & `tmdb_5000_credits.csv` – TMDB datasets used for model training 
 - `movie_recommendation_demo.mp4` – Video walkthrough of the working web application  
 
 ---
